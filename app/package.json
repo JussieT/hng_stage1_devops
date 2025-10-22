@@ -1,0 +1,11 @@
+{
+  "name": "hng-stage1-devops",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for HNG DevOps deployment task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Justin Emmanuel Tochukwu",
+  "license": "MIT"
+}
